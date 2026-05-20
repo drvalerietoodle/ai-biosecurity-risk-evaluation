@@ -60,3 +60,4 @@ ai-biosecurity-risk-evaluation/
 │
 └── figures/
 ```
+This project focuses on realistic biological communication failures that may influence public understanding and health behavior, rather than speculative catastrophic scenarios alone.
