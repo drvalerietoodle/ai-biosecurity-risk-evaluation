@@ -41,3 +41,22 @@ AI systems can generate biologically incorrect or unsupported claims that sound 
 COVID-19 demonstrated how rapidly misinformation can spread when confidence exceeds expertise. Public-health misinformation can distort risk perception, influence behavior, erode trust, and amplify panic during periods of scientific uncertainty.
 
 This project argues that expert biological review remains essential because biological risk evaluation requires more than keyword filtering or rigid automation. Human reviewers provide contextual reasoning, mechanistic understanding, escalation judgment, and awareness of downstream public-health consequences.
+
+---
+
+## Repository Structure
+
+```text
+ai-biosecurity-risk-evaluation/
+│
+├── data/
+│   └── sample_risk_dataset.csv
+│
+├── notebooks/
+│   └── biosecurity_risk_demo.ipynb
+│
+├── src/
+│   └── risk_scoring.py
+│
+└── figures/
+```
