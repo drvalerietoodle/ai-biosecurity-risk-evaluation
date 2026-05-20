@@ -43,6 +43,9 @@ COVID-19 demonstrated how rapidly misinformation can spread when confidence exce
 This project argues that expert biological review remains essential because biological risk evaluation requires more than keyword filtering or rigid automation. Human reviewers provide contextual reasoning, mechanistic understanding, escalation judgment, and awareness of downstream public-health consequences.
 
 ---
+## Example Analysis
+
+![Severity Plot](figures/severity_plot.png)
 
 ## Repository Structure
 
